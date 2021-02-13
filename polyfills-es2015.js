@@ -1,13 +1,13 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["polyfills"],{
 
 /***/ 2:
-/*!***************************************************************!*\
-  !*** multi ./apps/scheibentoenung-schmieder/src/polyfills.ts ***!
-  \***************************************************************/
+/*!****************************************************!*\
+  !*** multi ./apps/dundk-friseure/src/polyfills.ts ***!
+  \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/runner/work/dundk-friseure/dundk-friseure/apps/scheibentoenung-schmieder/src/polyfills.ts */"FbRo");
+module.exports = __webpack_require__(/*! /home/runner/work/dundk-friseure/dundk-friseure/apps/dundk-friseure/src/polyfills.ts */"cclU");
 
 
 /***/ }),
@@ -109,10 +109,10 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
 
 /***/ }),
 
-/***/ "FbRo":
-/*!*********************************************************!*\
-  !*** ./apps/scheibentoenung-schmieder/src/polyfills.ts ***!
-  \*********************************************************/
+/***/ "cclU":
+/*!**********************************************!*\
+  !*** ./apps/dundk-friseure/src/polyfills.ts ***!
+  \**********************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
