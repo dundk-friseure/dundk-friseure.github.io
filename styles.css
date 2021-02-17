@@ -2287,7 +2287,7 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
 .mat-badge-content {
   font-weight: 600;
   font-size: 12px;
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-badge-small .mat-badge-content {
   font-size: 9px;
@@ -2296,83 +2296,83 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   font-size: 24px;
 }
 .mat-h1, .mat-headline, .mat-typography h1 {
-  font: 400 24px/32px Raleway;
+  font: 400 24px/32px Great Vibes;
   letter-spacing: normal;
   margin: 0 0 16px;
 }
 .mat-h2, .mat-title, .mat-typography h2 {
-  font: 500 20px/32px Raleway;
+  font: 500 20px/32px Great Vibes;
   letter-spacing: normal;
   margin: 0 0 16px;
 }
 .mat-h3, .mat-subheading-2, .mat-typography h3 {
-  font: 400 16px/28px Raleway;
+  font: 400 16px/28px Great Vibes;
   letter-spacing: normal;
   margin: 0 0 16px;
 }
 .mat-h4, .mat-subheading-1, .mat-typography h4 {
-  font: 400 15px/24px Raleway;
+  font: 400 15px/24px Great Vibes;
   letter-spacing: normal;
   margin: 0 0 16px;
 }
 .mat-h5, .mat-typography h5 {
-  font: 400 calc(14px * 0.83)/20px Raleway;
+  font: 400 calc(14px * 0.83)/20px Great Vibes;
   margin: 0 0 12px;
 }
 .mat-h6, .mat-typography h6 {
-  font: 400 calc(14px * 0.67)/20px Raleway;
+  font: 400 calc(14px * 0.67)/20px Great Vibes;
   margin: 0 0 12px;
 }
 .mat-body-strong, .mat-body-2 {
-  font: 500 14px/24px Raleway;
+  font: 500 14px/24px Great Vibes;
   letter-spacing: normal;
 }
 .mat-body, .mat-body-1, .mat-typography {
-  font: 400 14px/20px Raleway;
+  font: 400 14px/20px Great Vibes;
   letter-spacing: normal;
 }
 .mat-body p, .mat-body-1 p, .mat-typography p {
   margin: 0 0 12px;
 }
 .mat-small, .mat-caption {
-  font: 400 12px/20px Raleway;
+  font: 400 12px/20px Great Vibes;
   letter-spacing: normal;
 }
 .mat-display-4, .mat-typography .mat-display-4 {
-  font: 300 112px/112px Raleway;
+  font: 300 112px/112px Great Vibes;
   letter-spacing: -0.05em;
   margin: 0 0 56px;
 }
 .mat-display-3, .mat-typography .mat-display-3 {
-  font: 400 56px/56px Raleway;
+  font: 400 56px/56px Great Vibes;
   letter-spacing: -0.02em;
   margin: 0 0 64px;
 }
 .mat-display-2, .mat-typography .mat-display-2 {
-  font: 400 45px/48px Raleway;
+  font: 400 45px/48px Great Vibes;
   letter-spacing: -0.005em;
   margin: 0 0 64px;
 }
 .mat-display-1, .mat-typography .mat-display-1 {
-  font: 400 34px/40px Raleway;
+  font: 400 34px/40px Great Vibes;
   letter-spacing: normal;
   margin: 0 0 64px;
 }
 .mat-bottom-sheet-container {
-  font: 400 14px/20px Raleway;
+  font: 400 14px/20px Great Vibes;
   letter-spacing: normal;
 }
 .mat-button, .mat-raised-button, .mat-icon-button, .mat-stroked-button,
 .mat-flat-button, .mat-fab, .mat-mini-fab {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 14px;
   font-weight: 500;
 }
 .mat-button-toggle {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-card {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-card-title {
   font-size: 24px;
@@ -2386,7 +2386,7 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   font-size: 14px;
 }
 .mat-checkbox {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-checkbox-layout .mat-checkbox-label {
   line-height: 24px;
@@ -2400,7 +2400,7 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   font-size: 18px;
 }
 .mat-table {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-header-cell {
   font-size: 12px;
@@ -2410,7 +2410,7 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   font-size: 14px;
 }
 .mat-calendar {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-calendar-body {
   font-size: 13px;
@@ -2425,23 +2425,23 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   font-weight: 400;
 }
 .mat-dialog-title {
-  font: 500 20px/32px Raleway;
+  font: 500 20px/32px Great Vibes;
   letter-spacing: normal;
 }
 .mat-expansion-panel-header {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 15px;
   font-weight: 400;
 }
 .mat-expansion-panel-content {
-  font: 400 14px/20px Raleway;
+  font: 400 14px/20px Great Vibes;
   letter-spacing: normal;
 }
 .mat-form-field {
   font-size: inherit;
   font-weight: 400;
   line-height: 1.125;
-  font-family: Raleway;
+  font-family: Great Vibes;
   letter-spacing: normal;
 }
 .mat-form-field-wrapper {
@@ -2586,34 +2586,34 @@ input.mat-input-element {
   margin-top: -0.0625em;
 }
 .mat-menu-item {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 14px;
   font-weight: 400;
 }
 .mat-paginator,
 .mat-paginator-page-size .mat-select-trigger {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 12px;
 }
 .mat-radio-button {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-select {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-select-trigger {
   height: 1.125em;
 }
 .mat-slide-toggle-content {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-slider-thumb-label-text {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 12px;
   font-weight: 500;
 }
 .mat-stepper-vertical, .mat-stepper-horizontal {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-step-label {
   font-size: 14px;
@@ -2630,10 +2630,10 @@ input.mat-input-element {
   font-weight: 500;
 }
 .mat-tab-group {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-tab-label, .mat-tab-link {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 14px;
   font-weight: 500;
 }
@@ -2644,12 +2644,12 @@ input.mat-input-element {
 .mat-toolbar h4,
 .mat-toolbar h5,
 .mat-toolbar h6 {
-  font: 500 20px/32px Raleway;
+  font: 500 20px/32px Great Vibes;
   letter-spacing: normal;
   margin: 0;
 }
 .mat-tooltip {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 10px;
   padding-top: 6px;
   padding-bottom: 6px;
@@ -2660,10 +2660,10 @@ input.mat-input-element {
   padding-bottom: 8px;
 }
 .mat-list-item {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-list-option {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-list-base .mat-list-item {
   font-size: 16px;
@@ -2692,7 +2692,7 @@ input.mat-input-element {
   font-size: 14px;
 }
 .mat-list-base .mat-subheader {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 14px;
   font-weight: 500;
 }
@@ -2723,20 +2723,20 @@ input.mat-input-element {
   font-size: 12px;
 }
 .mat-list-base[dense] .mat-subheader {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 12px;
   font-weight: 500;
 }
 .mat-option {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 16px;
 }
 .mat-optgroup-label {
-  font: 500 14px/24px Raleway;
+  font: 500 14px/24px Great Vibes;
   letter-spacing: normal;
 }
 .mat-simple-snackbar {
-  font-family: Raleway;
+  font-family: Great Vibes;
   font-size: 14px;
 }
 .mat-simple-snackbar-action {
@@ -2746,7 +2746,7 @@ input.mat-input-element {
   font-weight: 500;
 }
 .mat-tree {
-  font-family: Raleway;
+  font-family: Great Vibes;
 }
 .mat-tree-node,
 .mat-nested-tree-node {
@@ -2760,5 +2760,5 @@ body {
 }
 body {
   margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-family: "Great Vibes", cursive;
 }
