@@ -532,7 +532,7 @@ const _c0 = function () { return { whatsapp: "https://wa.me/01621642942?text=Anf
 class AppComponent {
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["dundk-friseure-root"]], decls: 12, vars: 2, consts: [["title", "DundK Friseure", 3, "socialMedia"], ["data-parallax", "true", 1, "page-header", 2, "background-image", "url('./assets/img/cover.jpeg')"], [1, "filter"], [1, "container"], [1, "motto", "text-center"], ["src", "/assets/img/logo.png", 1, "logo"], ["routerLink", "/datenschutz"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["dundk-friseure-root"]], decls: 12, vars: 2, consts: [["title", "Doreen & Kristin Friseure", 3, "socialMedia"], ["data-parallax", "true", 1, "page-header", 2, "background-image", "url('./assets/img/cover.jpeg')"], [1, "filter"], [1, "container"], [1, "motto", "text-center"], ["src", "/assets/img/logo.png", 1, "logo"], ["routerLink", "/datenschutz"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-navbar", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "div", 2);

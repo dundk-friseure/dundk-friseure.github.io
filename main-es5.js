@@ -1085,7 +1085,7 @@
         selectors: [["dundk-friseure-root"]],
         decls: 12,
         vars: 2,
-        consts: [["title", "DundK Friseure", 3, "socialMedia"], ["data-parallax", "true", 1, "page-header", 2, "background-image", "url('./assets/img/cover.jpeg')"], [1, "filter"], [1, "container"], [1, "motto", "text-center"], ["src", "/assets/img/logo.png", 1, "logo"], ["routerLink", "/datenschutz"]],
+        consts: [["title", "Doreen & Kristin Friseure", 3, "socialMedia"], ["data-parallax", "true", 1, "page-header", 2, "background-image", "url('./assets/img/cover.jpeg')"], [1, "filter"], [1, "container"], [1, "motto", "text-center"], ["src", "/assets/img/logo.png", 1, "logo"], ["routerLink", "/datenschutz"]],
         template: function AppComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-navbar", 0);
