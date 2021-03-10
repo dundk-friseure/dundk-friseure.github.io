@@ -1,1 +1,1 @@
-[{"route":"/"}]
+[{"route":"/"},{"route":"/datenschutz","title":"Datenschutz","description":"Datenschutz","published":true,"sourceFile":"datenschutz.md"},{"route":"/impressum","title":"Impressum","description":"Impressum","published":true,"sourceFile":"impressum.md"}]

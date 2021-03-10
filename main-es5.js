@@ -817,6 +817,17 @@
               return m.HomeModule;
             });
           }
+        }, {
+          path: '',
+          loadChildren: function loadChildren() {
+            return __webpack_require__.e(
+            /*! import() | static-pages-shared-static-pages */
+            "static-pages-shared-static-pages").then(__webpack_require__.bind(null,
+            /*! @static-pages/shared/static-pages */
+            "ElqU")).then(function (m) {
+              return m.StaticPagesModule;
+            });
+          }
         }], {
           anchorScrolling: 'enabled',
           scrollPositionRestoration: 'enabled'
@@ -1072,6 +1083,24 @@
         };
       };
 
+      var _c1 = function _c1() {
+        return {
+          href: "/impressum",
+          name: "Impressum"
+        };
+      };
+
+      var _c2 = function _c2() {
+        return {
+          href: "/datenschutz",
+          name: "Datenschutz"
+        };
+      };
+
+      var _c3 = function _c3(a0, a1) {
+        return [a0, a1];
+      };
+
       var AppComponent = function AppComponent() {
         _classCallCheck(this, AppComponent);
       };
@@ -1084,8 +1113,8 @@
         type: AppComponent,
         selectors: [["dundk-friseure-root"]],
         decls: 12,
-        vars: 2,
-        consts: [["title", "Doreen & Kristin Friseure", 3, "socialMedia"], ["data-parallax", "true", 1, "page-header", 2, "background-image", "url('./assets/img/cover.jpeg')"], [1, "filter"], [1, "container"], [1, "motto", "text-center"], ["src", "/assets/img/logo.png", 1, "logo"], ["routerLink", "/datenschutz"]],
+        vars: 8,
+        consts: [["title", "Doreen & Kristin Friseure", 3, "socialMedia"], ["data-parallax", "true", 1, "page-header", 2, "background-image", "url('./assets/img/cover.jpeg')"], [1, "filter"], [1, "container"], [1, "motto", "text-center"], ["src", "/assets/img/logo.png", 1, "logo"], [3, "links"], ["routerLink", "/datenschutz"]],
         template: function AppComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-navbar", 0);
@@ -1108,13 +1137,13 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "router-outlet");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](7, "app-footer");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](7, "app-footer", 6);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "cookie-law");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, " Diese Website verwendet Cookies. Durch die Nutzung erkl\xE4rst du dich mit dem Einsatz von Cookies einverstanden.");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "a", 6);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "a", 7);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Datenschutz");
 
@@ -1124,7 +1153,11 @@
           }
 
           if (rf & 2) {
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("socialMedia", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](1, _c0));
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("socialMedia", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](2, _c0));
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](7);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("links", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction2"](5, _c3, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](3, _c1), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](4, _c2)));
           }
         },
         directives: [_libs_shared_ui_paper_kit_src_lib_components_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_1__["NavbarComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"], _libs_shared_ui_paper_kit_src_lib_components_footer_footer_component__WEBPACK_IMPORTED_MODULE_3__["FooterComponent"], angular2_cookie_law__WEBPACK_IMPORTED_MODULE_4__["CookieLawContainerComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterLinkWithHref"]],
